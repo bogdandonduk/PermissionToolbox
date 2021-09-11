@@ -1,0 +1,3 @@
+rootProject.name = "PermissionToolbox"
+include ':app'
+include ':PermissionToolboxAndroidLib'
